@@ -1,4 +1,5 @@
-
+// 연습1-2
+// 세 값의 최솟값을 구하여 출력
 import java.util.Scanner;
 
 class test_2 {

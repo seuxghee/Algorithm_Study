@@ -1,3 +1,5 @@
+// 연습1-1
+// 네 값의 최댓값을 구하여 출력
 import java.util.Scanner; //import 해줘야함
 
 class test_1 {
