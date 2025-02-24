@@ -1,5 +1,3 @@
-// 연습 2-3
-// 배열 a의 모든 요소의 ㅏㅎㅂ계를 구하여 반환하는 프로그램 작성
 import java.util.Arrays;
 import java.util.Scanner;
 
