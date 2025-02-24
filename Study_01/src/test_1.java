@@ -1,3 +1,4 @@
+// 연습 2-1
 // 배열 요소의 최댓값을 출력(값을 난수로 생성)
 
 import java.util.Random;

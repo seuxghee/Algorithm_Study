@@ -1,4 +1,4 @@
-// 1-2
+// 연습 2-2
 // 배열 역순으로 정렬하는 과정을 하나하나 나타내는 프로그램 작성
 import java.util.Arrays;
 import java.util.Scanner;
